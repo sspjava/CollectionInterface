@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63025ec5-fca5-4c50-86e9-ca2d4fc571d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenericsEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LambdaEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParallelVssequentialStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ParallelsequentialStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StreamEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UnboundedWildCardInGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UpperBoundedInGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WildCardIngenerics.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MM0w9oyGebjKNxjKJYdCY03FRZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/CollectionInterface"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LambdaEx2">
+    <configuration name="GenericsEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenericsEx1" />
+      <module name="CollectionInterface" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaEx2" />
+      <module name="CollectionInterface" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnboundedWildCardInGenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnboundedWildCardInGenerics" />
+      <module name="CollectionInterface" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpperBoundedInGenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UpperBoundedInGenerics" />
+      <module name="CollectionInterface" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WildCardIngenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WildCardIngenerics" />
+      <module name="CollectionInterface" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LambdaEx2" />
+        <item itemvalue="Application.UnboundedWildCardInGenerics" />
+        <item itemvalue="Application.UpperBoundedInGenerics" />
+        <item itemvalue="Application.WildCardIngenerics" />
+        <item itemvalue="Application.GenericsEx1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63025ec5-fca5-4c50-86e9-ca2d4fc571d3" name="Changes" comment="" />
+      <created>1677562386747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677562386747</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
